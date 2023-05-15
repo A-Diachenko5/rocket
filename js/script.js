@@ -40,7 +40,6 @@ rightArrow.addEventListener('click', ()=>{
     changeSlide(slideIndex)
 })
 
-console.log(burger)
 
 burger.addEventListener('click', ()=>{
     menu.style.display = 'block'
